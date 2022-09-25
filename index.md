@@ -1,4 +1,4 @@
-# **Chelcey's University Coding Page**
+# **Chelcey's Software Tools & Techniques Lab Page**
 ---
 > *"The more I study, the more insatiable do I feel my genius for it to be."*
 > 

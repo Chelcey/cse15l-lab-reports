@@ -16,7 +16,7 @@
 
 ***
 
-# [Chelcey's CSE 15L Lab Reports](https://chelcey.github.io/cse15l-lab-reports/index.html)
+# [CSE 15L Lab Reports](https://chelcey.github.io/cse15l-lab-reports/index.html)
 
 
 | Lab Report | Title | Description |

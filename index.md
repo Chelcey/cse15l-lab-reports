@@ -21,21 +21,15 @@ git repository
 This is cool laptop! :computer:
 
 ### Checklist
-- [ ] Welcome Survey
-- [ ] Week 0 Lab (Creating Githb Page) Due 11:59 am (before noon) Wednesday September 28, 2022
-- [ ] Quiz 1 (will be released after class Monday) Due 11:59 am (before noon) Wednesday September 28, 2022
+1) [x] Welcome Survey
+2) [ ] Week 0 Lab (Creating Githb Page) Due 11:59 am (before noon) Wednesday September 28, 2022
+3) [ ] Quiz 1 (will be released after class Monday) Due 11:59 am (before noon) Wednesday September 28, 2022
 
-[Chelcey's CSE 15L Lab Reports](https://chelcey.github.io/cse15l-lab-reports/)
+[Chelcey's CSE 15L Lab Reports](https://chelcey.github.io/cse15l-lab-reports/index.html)
 
-
- 
 - Python
 - Java
 - C++
-
-1) Python
-2) Java
-3) C++
 
 | How do some of the different formatting options show up when you use them? | Are any surprising |
 | ----------- | ----------- |

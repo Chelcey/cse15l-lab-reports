@@ -49,3 +49,8 @@ This is cool laptop! :computer:
 | Lab 3 | Title | Description 
 | Lab 4 | Title | Description 
 
+| Lab Report | Title | Description |
+| ----------- | ----------- | ----------- |
+| [Lab 1](lab-report-1-week-0.html) | Title | Description |
+| Lab 2 | Title | Description | 
+

@@ -33,4 +33,4 @@ This is cool laptop! :computer:
 
 | How do some of the different formatting options show up when you use them? | Are any surprising |
 | ----------- | ----------- |
-| When you use - ; it turns into bullet point· When you use 1) it turns into 1. | Not much |
+| When you use - ; it turns into bullet point· When you use 1) it turns into 1. | The Checklist box doesn't really work, although it works in preview |

@@ -51,6 +51,6 @@ This is cool laptop! :computer:
 
 | Lab Report | Title | Description |
 | ----------- | ----------- | ----------- |
-| [Lab 1](lab-report-1-week-0.html) | Title | Description |
+| [Lab 1](lab-report-1-week-0.html) | Creating a Github Page | To post lab reports for the course |
 | Lab 2 | Title | Description | 
 

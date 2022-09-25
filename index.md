@@ -21,7 +21,7 @@ git repository
 This is cool laptop! :computer:
 
 ### Checklist
-1) [X]  Welcome Survey
+1) [X] Welcome Survey
 2) [ ] Week 0 Lab (Creating Githb Page) Due 11:59 am (before noon) Wednesday September 28, 2022
 3) [ ] Quiz 1 (will be released after class Monday) Due 11:59 am (before noon) Wednesday September 28, 2022
 
@@ -33,4 +33,4 @@ This is cool laptop! :computer:
 
 | How do some of the different formatting options show up when you use them? | Are any surprising |
 | ----------- | ----------- |
-| When you use - ; it turns into bullet point· When you use 1) it turns into 1. | The Checklist box doesn't really work, although it works in preview |
+| Checklist spacing is off | The Checklist box doesn't really work, although it works in preview · When you use - ; it turns into bullet point· When you use 1) it turns into 1.|

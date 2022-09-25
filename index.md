@@ -21,9 +21,9 @@ git repository
 This is cool laptop! :computer:
 
 ### Checklist
-1) [X] Welcome Survey
-2) [ ] Week 0 Lab (Creating Githb Page) Due 11:59 am (before noon) Wednesday September 28, 2022
-3) [ ] Quiz 1 (will be released after class Monday) Due 11:59 am (before noon) Wednesday September 28, 2022
+- [X] Welcome Survey
+- [ ] Week 0 Lab (Creating Githb Page) Due 11:59 am (before noon) Wednesday September 28, 2022
+- [ ] Quiz 1 (will be released after class Monday) Due 11:59 am (before noon) Wednesday September 28, 2022
 
 [Chelcey's CSE 15L Lab Reports](https://chelcey.github.io/cse15l-lab-reports/index.html)
 

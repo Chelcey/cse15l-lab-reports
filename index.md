@@ -8,6 +8,9 @@
 
 # `Hello, world!`
 
+---
+### [Basic Markdown Syntax Notes](https://chelcey.github.io/cse15l-lab-reports/basic-markdown-syntax.html)
+
 ***
 ### CSE 15L Checklist
 - [X] Welcome Survey

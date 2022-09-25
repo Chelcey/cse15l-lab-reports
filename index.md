@@ -39,3 +39,12 @@ This is cool laptop! :computer:
 
 
 **This** formatting will update _as I type_ 
+
+---
+# CSE 15L Lab Reports
+| Lab Report | Title | Description |
+| ----------- | ----------- | ----------- |
+| [Lab 1](lab-report-1-week-0.html)| Creating a Github Page | To post lab reports for the course | 
+| Lab 2 | Title | Description 
+| Lab 3 | Title | Description 
+

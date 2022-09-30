@@ -16,6 +16,8 @@
 - [X] Welcome Survey
 - [X] Week 0 Lab (Creating Githb Page) Due 11:59 am (before noon) Wednesday September 28, 2022
 - [X] Quiz 1 (will be released after class Monday) Due 11:59 am (before noon) Wednesday September 28, 2022
+- [X] Week 1 Lab Report Original (blog) Turned in
+- [ ] Week 1 Lab Report Update (blog) in Github
 
 ***
 

@@ -1,5 +1,5 @@
 *Week 1 Lab Report*
-# <span style="color:yellow">**Remote Access**</span>
+# <span style="color:cyan">**Remote Access**</span>
 ## **A Tutorial on how to log into a course-specific account on ieng6**
 
 ***
@@ -104,7 +104,9 @@ class WhereAmI {
 <span style="color:red"> *The ssh-keygen portion is where I ran into an issue. Basically, I can use the passcode I set up fine to login, but when it prompted me again for it, I gave the passcode again and for some odd reason it just didn't work at all. I even tried copying the passcode, to ensure that I was inputting it in correctly, and it denied me access.*</span>
 ***
 ## <mark>**Step 6: Optimizing Remote Running**</mark>
-<span style="color:red"> *Since the error was in step 5, I was not able to optimize remote programming. Therefore I do not have a screenshot for this section.*</span> 😟
+![image](optimizeremoteRunning.png)
+
+<span style="color:red"> *Since the error was in step 5, I was not able to optimize remote programming. Therefore I do not have a screenshot for this section. Although, I was not able to optimize remote running, I was still able to effectively run a bunch of commands on one line.*</span> 😟
 
 ***
 💕<span style="color:pink"> Since I was not able to attend office hours due to my class schedule on 09/30/2022 Friday. I would need to head to an office hour next week to find a way to fix the issue. I will update the blog when I am able to. Thank you for reading!!</span>

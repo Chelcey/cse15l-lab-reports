@@ -1,5 +1,5 @@
 *Week 1 Lab Report*
-# **Remote Access**
+# <span style="color:yellow">**Remote Access**</span>
 ## **A Tutorial on how to log into a course-specific account on ieng6**
 
 ***

@@ -29,3 +29,4 @@
 | [Lab 0](lab-report-1-week-0.html) | Creating a Github Page | To post lab reports for the course |
 | [Lab 1](lab-report-1-week-1.html) | Remote Access | Blog tutorial on how to log into a course-specific account | 
 | [Lab 2](lab-report-2-week-2.html) | Title | Description | 
+| [Lab 3](lab-report-1-week-3.html) | Title | Description |

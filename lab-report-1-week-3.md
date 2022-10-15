@@ -6,11 +6,11 @@
 
 ## <mark >**Part 1**</mark> 
 ## **To-Do List:**
-- [] Using a code block in Markdown show the code for my Simplest Search Engine
+- [ ] Using a code block in Markdown show the code for my Simplest Search Engine
 
 `Simplest Search Engine code goes here`
 
-- [] Three screenshots of using Simplest Search Engine
+- [ ] Three screenshots of using Simplest Search Engine
 
 1. Simplest Search Engine (initial)
 ![image](nothing.png)
@@ -60,7 +60,7 @@
 2. The Symptom (the failing test output)
 ![image](W3Im2.png)
 
-3. The bug (code fix needed) :bug:
+3. The bug (code fix needed) 🐛
 ![image](W3Im3.png)
 
 ### <span style="color:crimson red"> *Explain the connection between the symptom and the bug:* </span>

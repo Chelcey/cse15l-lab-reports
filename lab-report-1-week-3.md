@@ -70,4 +70,4 @@
 ### <span style="color:purple"> The bug causes that particular symptom for that particular input because it is the flaw in the program. Since its a flaw, it affects the output in the terminal which is the symptom. </span>
 
 
-### *Disclaimer: I am using a Macbook Pro (Intel), so it may be different for you~* ###
+### *Disclaimer: I will update my answers as soon as I fully comprehend some of the concepts* ###

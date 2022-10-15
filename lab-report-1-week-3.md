@@ -1,6 +1,6 @@
 *Week 3 Lab Report*
-# <span style="color:blue">**Remote Access**</span>
-## **A Tutorial on how to log into a course-specific account on ieng6**
+# <span style="color:blue">**Week 3 Lab Report**</span>
+## **Two Parts**
 
 ***
 

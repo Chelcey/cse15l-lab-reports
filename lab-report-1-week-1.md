@@ -102,14 +102,15 @@ class WhereAmI {
 2. Type: `ssh-keygen`
 
 <span style="color:red"> *The ssh-keygen portion is where I ran into an issue. Basically, I can use the passcode I set up fine to login, but when it prompted me again for it, I gave the passcode again and for some odd reason it just didn't work at all. I even tried copying the passcode, to ensure that I was inputting it in correctly, and it denied me access.*</span>
+
+## <mark>**Progress Update:** </mark> 
+# I went to OH and was able to get it running. 
+*updated photo*
+![image](optimizeremoteRunning2.png)
+
 ***
 ## <mark>**Step 6: Optimizing Remote Running**</mark>
 ![image](optimizeremoteRunning.png)
-
-##<mark>**Progress Update:** </mark> 
-## I went to OH and was able to get it running. 
-*updated photo*
-![image](optimizeremoteRunning2.png)
 
 <span style="color:red"> *Since the error was in step 5, I was not able to optimize remote programming. Therefore I do not have a screenshot for this section. Although, I was not able to optimize remote running, I was still able to effectively run a bunch of commands on one line.*</span> 😟
 

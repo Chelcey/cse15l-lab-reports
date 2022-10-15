@@ -93,7 +93,7 @@ class WhereAmI {
 
 
 ***
-## <mark>**Step 5: Setting an SSH Key**</mark>
+## <mark>**Step 5: Setting an SSH Key** </mark>
 ![image](settinganSSHkey.png)
 
 > Here is where I ran into an error. 
@@ -106,6 +106,8 @@ class WhereAmI {
 ## <mark>**Step 6: Optimizing Remote Running**</mark>
 ![image](optimizeremoteRunning.png)
 
+##<mark>**Progress Update:** </mark> 
+## I went to OH and was able to get it running. 
 *updated photo*
 ![image](optimizeremoteRunning2.png)
 

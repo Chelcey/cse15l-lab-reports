@@ -47,29 +47,24 @@
 - [ ]  Write out every key pressed, including if you use the arrows or `h``j``k``l` to move around. 
 - [ ] description/screenshot of typing `/apple<Enter>` and the cursor jumpting to the start of `apple`
 - [ ] description/screenshot of typing `ce`, switching into input mode and deleting the word `apple`
+- [ ] description/screenshot of typing `banana<Esc>`, replacing the text and returning to insert mode
+- [ ] description/screenshot of typing `:w<Enter`, saving the changes
       
 # <span style="color:maroon"> **Part 2:Task List:**</span>
+- [ ] Start in Visual Studio Code and make the edit there (**what edit??**)
+- [ ] `scp` the file to the remote server and run it there to confirm it works (you can just run `bash test.sh` on the remote to test it out)
+- [ ] Start already logged into a `ssh` session
+- [ ] Make the edit for the task you chose (**I didn't chose this**)  in Vim, exit Vim and run `bash test.sh`
+- [ ] Report how long it took you to make the edit in seconds in both styles, and any difficulties or details that came up in doing so. 
+      
 
-## What is the main point of the Big O Notation?
-> <span style="color:blue"> Describe the asymptotic behavior of functions (which is how fast the f(x) grows/declines)</span>
+## Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
+> <span style="color:blue"> I would prefer to use the easier one, but in my case I choose neither. I currently don't want to even think about working on a program that I can run remotely. I used to want to work remotely, but now at this point, I don't have what it takes. It gives me stress and anxiety. At this point, I am about to quit.</span>
 
-## What is asymptotic behavior? 
-> <span style="color:blue"> method of describing limiting behavior</span>
+## What about the project or task might factor into your decision one way or another (If nothing would affect your decision, say so and why!?) 
+> <span style="color:blue"> The projects or tasks that factored in my decision is realizing that I wasted my whole life doing something that I am not even great at, believing that I can do it. This is a major factor into my current decision of my view point.  </span>
 
-## What is limiting behavior?
-> <span style="color:blue"> limit is value that f(x) approaches as input approaches some value</span>
-> <span style="color:blue"> The limit of f(x), as x approaches a, is equal to L.</span>
-> <span style="color:blue"> means: As x gets closer to a, f(x) gets closer to L.</span>
 
-## Why do we need to use Big O for?
-> <span style="color:blue"> used to classify algorithms according to run time or space requirements</span>
-
-## Why do we need to classify algorithms according to run time or space requirements?
-> <span style="color:blue"> Knowing how the algorithm works efficiently can add value to the way we do programming</span>
-> <span style="color:blue"> Can make the program behave in required optimal conditions</span>
-
-## What does optimal conditions means? 
-> <span style="color:blue"> best level or state that it could achieve</span>
 
 https://www.freecodecamp.org/news/all-you-need-to-know-about-big-o-notation-to-crack-your-next-coding-interview-9d575e7eec4/
 

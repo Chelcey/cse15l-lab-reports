@@ -7,7 +7,7 @@
 
 # <span style="color:maroon"> **Pre-Task List:**</span>
 - [x] Fork the given [Repository](https://github.com/ucsd-cse15l-f22/list-examples-grader)
-- [ ] Given a list of repositories to test the grader
+- [x] Given a list of repositories to test the grader
 
 ## <span style="color:pink"> **Grading Script should include:**</span>
 - [ ] grade message (pass/fail, or maybe a proportion of tests passed - your choice) if the tests run.
@@ -37,7 +37,23 @@
 
 
 # <span style="color:maroon"> **Part 1:Task List:**</span>
-
+- [ ] Pick one of the tasks from the week 6 lab that your group completed in Vim in the second set of tasks.
+- [ ]  give the shortest sequence of vim commands (less than 30 total keys pressed)
+       1. Write out the sequence of keys to press using code formatting (with backticks `). 
+       2. Use `<>` to indicate special keys (`<Backspace>` or `<Enter>` or `<Esc>`) and just the keys themselves for other    
+          keys pressed. 
+       3. Take a screenshot and describe which commands/keypresses got to that step, for each command where you move the         
+          cursor or change the text. 
+- [ ]  Write out every key pressed, including if you use the arrows or `h``j``k``l` to move around. 
+      
+      > Example:
+      > Changing the first occurrence of the word “apple” to “banana” in a file containing 
+      > `blueberry apple sauce` I might write
+      > `apple<Enter>cebanana<Esc>:w<Enter>`
+      
+      - [ ] description/screenshot of typing `/apple<Enter>` and the cursor jumpting to the start of `apple`
+      - [ ] description/screenshot of typing `ce`, switching into input mode and deleting the word `apple`
+      
 # <span style="color:maroon"> **Part 2:Task List:**</span>
 
 ## What is the main point of the Big O Notation?

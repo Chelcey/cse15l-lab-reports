@@ -35,15 +35,15 @@
       - [ ] list-methods-nested
       - [ ] list-examples-subtle
 
+- <span style="color:red"> *I am unable to do this portion at this point in my lifetime. Hopefully in my next life, I will be able to be a better coder. It is not that deep.* </span>
+
 
 # <span style="color:maroon"> **Part 1:Task List:**</span>
 - [ ] Pick one of the tasks from the week 6 lab that your group completed in Vim in the second set of tasks.
 - [ ]  give the shortest sequence of vim commands (less than 30 total keys pressed)
        1. Write out the sequence of keys to press using code formatting (with backticks `). 
-       2. Use `<>` to indicate special keys (`<Backspace>` or `<Enter>` or `<Esc>`) and just the keys themselves for other    
-          keys pressed. 
-       3. Take a screenshot and describe which commands/keypresses got to that step, for each command where you move the         
-          cursor or change the text. 
+       2. Use `<>` to indicate special keys (`<Backspace>` or `<Enter>` or `<Esc>`) and just the keys themselves for          other keys pressed. 
+       3. Take a screenshot and describe which commands/keypresses got to that step, for each command where you move          the cursor or change the text. 
 - [ ]  Write out every key pressed, including if you use the arrows or `h``j``k``l` to move around. 
 - [ ] description/screenshot of typing `/apple<Enter>` and the cursor jumpting to the start of `apple`
 - [ ] description/screenshot of typing `ce`, switching into input mode and deleting the word `apple`
@@ -66,6 +66,6 @@
 
 
 
-https://www.freecodecamp.org/news/all-you-need-to-know-about-big-o-notation-to-crack-your-next-coding-interview-9d575e7eec4/
 
-### [Back to Contents:](https://chelcey.github.io/cse11-self-study/)****
+
+### [Back to Contents:](https://chelcey.github.io/cse11-lab-reports/)****

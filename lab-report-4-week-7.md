@@ -52,7 +52,7 @@
         `apple<Enter>cebanana<Esc>:w<Enter>`
  
   
-      - [ ] description/screenshot of typing `/apple<Enter>` and the cursor jumpting to the start of `apple`
+      - [x] description/screenshot of typing `/apple<Enter>` and the cursor jumpting to the start of `apple`
       - [ ] description/screenshot of typing `ce`, switching into input mode and deleting the word `apple`
       
 # <span style="color:maroon"> **Part 2:Task List:**</span>

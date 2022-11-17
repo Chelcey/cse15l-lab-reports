@@ -3,7 +3,7 @@
 ---
 
 # <span style="color:fuschia"> **Lab Goals:**</span>
-> Writing a bash scriipt that takes the URL of a Github repository andprints out a grade.
+> Writing a bash script that takes the URL of a Github repository andprints out a grade.
 
 # <span style="color:maroon"> **Pre-Task List:**</span>
 - [x] Fork the given [Repository](https://github.com/ucsd-cse15l-f22/list-examples-grader)

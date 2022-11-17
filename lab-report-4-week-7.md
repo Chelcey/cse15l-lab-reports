@@ -1,4 +1,5 @@
-# <span style="color:navy"> **Java for Beginners**</span>
+# <span style="color:navy"> **Lab Report 4 Week 7**</span>
+## <span style="color:purple"> **Chelcey Do**</span>
 ---
 
 # <span style="color:fuschia"> **Lab Goals:**</span>

@@ -45,15 +45,8 @@
        3. Take a screenshot and describe which commands/keypresses got to that step, for each command where you move the         
           cursor or change the text. 
 - [ ]  Write out every key pressed, including if you use the arrows or `h``j``k``l` to move around. 
-      
-       Example:
-       Changing the first occurrence of the word “apple” to “banana” in a file containing 
-       `blueberry apple sauce` I might write
-        `apple<Enter>cebanana<Esc>:w<Enter>`
- 
-  
-      - [x] description/screenshot of typing `/apple<Enter>` and the cursor jumpting to the start of `apple`
-      - [ ] description/screenshot of typing `ce`, switching into input mode and deleting the word `apple`
+- [ ] description/screenshot of typing `/apple<Enter>` and the cursor jumpting to the start of `apple`
+- [ ] description/screenshot of typing `ce`, switching into input mode and deleting the word `apple`
       
 # <span style="color:maroon"> **Part 2:Task List:**</span>
 

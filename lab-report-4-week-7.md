@@ -14,8 +14,8 @@
 - [x] Pick one of the tasks from the week 6 lab that your group completed in Vim in the second set of tasks.
 
 ---
-   ### <span style="color:brown">Changing the name of the `start` parameter and its uses to `bases`</span>
-   ### <span style="color:blue">I would have to say that I don’t think my VIM commands are accurate. I accidentally forgot to keep complete track of how many `j`s ,`l`s , <esc>'s, and `:wq`s I have done.  I would say that this is just a rough estimate and that there is altogether at least 30 key presses at the most. </span>
+### <span style="color:brown">Changing the name of the `start` parameter and its uses to `bases`</span>
+### <span style="color:blue">I would have to say that I don’t think my VIM commands are accurate. I accidentally forgot to keep complete track of how many `j`s ,`l`s , <esc>'s, and `:wq`s I have done.  I would say that this is just a rough estimate and that there is altogether at least 30 key presses at the most. </span>
 ---
    
 - [x]  give the shortest sequence of vim commands (less than 30 total keys pressed)

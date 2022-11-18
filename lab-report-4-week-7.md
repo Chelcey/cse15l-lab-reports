@@ -11,23 +11,24 @@
 
 # <span style="color:maroon"> **Part 1:Task List:**</span>
 
-- [x] Pick one of the tasks from the week 6 lab that your group completed in Vim in the second set of tasks.
-
+## Pick one of the tasks from the week 6 lab that your group completed in Vim in the second set of tasks.
 ---
 ### <span style="color:brown"> Changing the name of the `start` parameter and its uses to `bases`</span>
-### <span style="color:blue"> I would have to say that I don’t think my VIM commands are accurate. I accidentally forgot to keep complete track of how many `j`s ,`l`s , <esc>'s, and `:wq`s I have done.  I would say that this is just a rough estimate and that there is altogether at least 30 key presses at the most. </span>
 ---
    
-- [x]  give the shortest sequence of vim commands (less than 30 total keys pressed)
+## Give the shortest sequence of vim commands (less than 30 total keys pressed)
        1. Write out the sequence of keys to press using code formatting (with backticks `). 
        2. Use `<>` to indicate special keys (`<Backspace>` or `<Enter>` or `<Esc>`) and just the keys themselves for other keys pressed. 
-       3. Take a screenshot and describe which commands/keypresses got to that step, for each command where you move the cursor or change the text. 
-    ### <span style="color:blue"> 
-- [ ]  Write out every key pressed, including if you use the arrows or `h``j``k``l` to move around. 
-- [ ] description/screenshot of typing `/apple<Enter>` and the cursor jumpting to the start of `apple`
-- [ ] description/screenshot of typing `ce`, switching into input mode and deleting the word `apple`
-- [ ] description/screenshot of typing `banana<Esc>`, replacing the text and returning to insert mode
-- [ ] description/screenshot of typing `:w<Enter`, saving the changes
+       3. Take a screenshot or describe which commands/keypresses got to that step, for each command where you move the cursor or change the text. 
+---
+###  <span style="color:blue"> I would have to say that I don’t think my VIM commands are accurate. I accidentally forgot to keep complete track of how many j's ,l's ,esc's, and :wq's I have done.  I would say that this is just a rough estimate and that there is altogether at least 30 key presses at the most.</span>
+
+<span style="color:blue"> `j` (12 times); `l` (2 times); `x` (5 times); `i` (1 time) `base` (4 for each letter);...(running the tests to see if it works);  `j` (13 times); `l` (14 times); `x` (5 times); `l` (1 time); `base` (4 for each letter); <esc> (1 time); `x` (1 time); `j` (4 times); ':wq' (1 time) </span>
+   
+### <span style="color:blue"> `j` (12 times); `l` (2 times); `x` (5 times); `i` (1 time) `base` (4 for each letter);...(running the tests to see if it works);  `j` (13 times); `l` (14 times); `x` (5 times); `l` (1 time); `base` (4 for each letter); <esc> (1 time); `x` (1 time); `j` (4 times); ':wq' (1 time) </span>
+   
+  
+ 
       
 # <span style="color:maroon"> **Part 2:Task List:**</span>
 - [ ] Start in Visual Studio Code and make the edit there (**what edit??**)

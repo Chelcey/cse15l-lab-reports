@@ -50,11 +50,10 @@
 
 ![Image](l4w7.jpg)
 
-## TIME
-
-| VS CODE | VIM |
+| Style | Time |
 | ----------- | ----------- |
-| A long time | 1 hour |
+| VS CODE | Several Days |
+| VIM | 1 hour |
 
 ## Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
 > <span style="color:blue"> Out of these two styles I would prefer using VIM if I had to work on a program that I was running remotely. The reason is that I felt like there was less steps to do in VIM, and I didn’t have to worry about if whether SSH will decide to prompt me for a password while logging in.</span>

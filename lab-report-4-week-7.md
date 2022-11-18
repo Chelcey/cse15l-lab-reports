@@ -62,4 +62,4 @@
 > <span style="color:blue"> After doing the project or task I felt like after trying out both styles, I just felt like the VIM style was less work. The only work was figuring out how to even start.</span>
 
 
-### [Back to Contents:](https://chelcey.github.io/cse11-lab-reports/)****
+### [Back to Contents:](https://chelcey.github.io/cse11-lab-reports/index-html)****

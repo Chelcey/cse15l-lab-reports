@@ -3,7 +3,7 @@
 ---
 
 # <span style="color:fuschia"> **Lab Goals:**</span>
-> Writing a bash script that takes the URL of a Github repository andprints out a grade.
+> Focuses on VIM (material from Week 6 Lab).
 
 # <span style="color:maroon"> **Pre-Task List:**</span>
 - [x] Fork the given [Repository](https://github.com/ucsd-cse15l-f22/list-examples-grader)
@@ -12,12 +12,14 @@
 # <span style="color:maroon"> **Part 1:Task List:**</span>
 
 - [x] Pick one of the tasks from the week 6 lab that your group completed in Vim in the second set of tasks.
-   ### <span style="color:blue">Changing the name of the `start` parameter and its uses to `bases`</span>
+   ### <span style="color:brown">Changing the name of the `start` parameter and its uses to `bases`</span>
+   ### <span style="color:blue">I would have to say that I don’t think my VIM commands are accurate. I accidentally forgot to keep complete track of how many `j`s ,`l`s , <esc>'s, and `:wq`s I have done.  I would say that this is just a rough estimate and that there is altogether at least 30 key presses at the most. </span>
       
-- [ ]  give the shortest sequence of vim commands (less than 30 total keys pressed)
+- [x]  give the shortest sequence of vim commands (less than 30 total keys pressed)
        1. Write out the sequence of keys to press using code formatting (with backticks `). 
-       2. Use `<>` to indicate special keys (`<Backspace>` or `<Enter>` or `<Esc>`) and just the keys themselves for          other keys pressed. 
-       3. Take a screenshot and describe which commands/keypresses got to that step, for each command where you move          the cursor or change the text. 
+       2. Use `<>` to indicate special keys (`<Backspace>` or `<Enter>` or `<Esc>`) and just the keys themselves for other keys pressed. 
+       3. Take a screenshot and describe which commands/keypresses got to that step, for each command where you move the cursor or change the text. 
+    ### <span style="color:blue"> 
 - [ ]  Write out every key pressed, including if you use the arrows or `h``j``k``l` to move around. 
 - [ ] description/screenshot of typing `/apple<Enter>` and the cursor jumpting to the start of `apple`
 - [ ] description/screenshot of typing `ce`, switching into input mode and deleting the word `apple`

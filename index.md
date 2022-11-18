@@ -17,7 +17,7 @@
 - [X] Week 0 Lab (Creating Githb Page) Due 11:59 am (before noon) Wednesday September 28, 2022
 - [X] Quiz 1 (will be released after class Monday) Due 11:59 am (before noon) Wednesday September 28, 2022
 - [X] Week 1 Lab Report Original (blog) Turned in
-- [ ] Week 1 Lab Report Update (blog) in Github
+
 
 ***
 
@@ -30,3 +30,4 @@
 | [Lab 1](lab-report-1-week-1.html) | Remote Access | Blog tutorial on how to log into a course-specific account | 
 | [Lab 2](lab-report-2-week-2.html) | Title | Description | 
 | [Lab 3](lab-report-1-week-3.html) | Title | Description |
+| [Lab 4](lab-report-4-week-7.html) | VIM   | working off Week 6 lab |

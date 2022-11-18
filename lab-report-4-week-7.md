@@ -14,7 +14,6 @@
 ## Pick one of the tasks from the week 6 lab that your group completed in Vim in the second set of tasks.
 ---
 ### <span style="color:brown"> Changing the name of the `start` parameter and its uses to `bases`</span>
----
    
 ## Give the shortest sequence of vim commands (less than 30 total keys pressed)
        1. Write out the sequence of keys to press using code formatting (with backticks `). 
@@ -23,19 +22,31 @@
 ---
 ###  <span style="color:blue"> I would have to say that I don’t think my VIM commands are accurate. I accidentally forgot to keep complete track of how many j's ,l's ,esc's, and :wq's I have done.  I would say that this is just a rough estimate and that there is altogether at least 30 key presses at the most.</span>
 
-<span style="color:blue"> `j` (12 times); `l` (2 times); `x` (5 times); `i` (1 time) `base` (4 for each letter);...(running the tests to see if it works);  `j` (13 times); `l` (14 times); `x` (5 times); `l` (1 time); `base` (4 for each letter); <esc> (1 time); `x` (1 time); `j` (4 times); ':wq' (1 time) </span>
+`j` (12 times)
+`l` (2 times)
+`x` (5 times)
+`i` (1 time)
+`base` (4 for each letter) 
+`j` (13 times)
+`l` (14 times)
+`x` (5 times)
+`l` (1 time)
+`base` (4 for each letter)
+`<esc>` (1 time)
+`x` (1 time)
+`j` (4 times)
+`<:wq>` (1 time) 
    
-### <span style="color:blue"> `j` (12 times); `l` (2 times); `x` (5 times); `i` (1 time) `base` (4 for each letter);...(running the tests to see if it works);  `j` (13 times); `l` (14 times); `x` (5 times); `l` (1 time); `base` (4 for each letter); <esc> (1 time); `x` (1 time); `j` (4 times); ':wq' (1 time) </span>
-   
-  
+
+--- 
  
       
 # <span style="color:maroon"> **Part 2:Task List:**</span>
-- [ ] Start in Visual Studio Code and make the edit there (**what edit??**)
-- [ ] `scp` the file to the remote server and run it there to confirm it works (you can just run `bash test.sh` on the remote to test it out)
-- [ ] Start already logged into a `ssh` session
-- [ ] Make the edit for the task you chose (**I didn't chose this**)  in Vim, exit Vim and run `bash test.sh`
-- [ ] Report how long it took you to make the edit in seconds in both styles, and any difficulties or details that came up in doing so. 
+- [x] Start in Visual Studio Code and make the edit there 
+- [x] `scp` the file to the remote server and run it there to confirm it works (you can just run `bash test.sh` on the remote to test it out)
+- [x] Start already logged into a `ssh` session
+- [x] Make the edit for the task you chose in Vim, exit Vim and run `bash test.sh`
+- [x] Report how long it took you to make the edit in seconds in both styles, and any difficulties or details that came up in doing so. 
       
 
 ## Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?

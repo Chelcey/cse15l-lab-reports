@@ -12,9 +12,12 @@
 # <span style="color:maroon"> **Part 1:Task List:**</span>
 
 - [x] Pick one of the tasks from the week 6 lab that your group completed in Vim in the second set of tasks.
+
+---
    ### <span style="color:brown">Changing the name of the `start` parameter and its uses to `bases`</span>
    ### <span style="color:blue">I would have to say that I don’t think my VIM commands are accurate. I accidentally forgot to keep complete track of how many `j`s ,`l`s , <esc>'s, and `:wq`s I have done.  I would say that this is just a rough estimate and that there is altogether at least 30 key presses at the most. </span>
-      
+---
+   
 - [x]  give the shortest sequence of vim commands (less than 30 total keys pressed)
        1. Write out the sequence of keys to press using code formatting (with backticks `). 
        2. Use `<>` to indicate special keys (`<Backspace>` or `<Enter>` or `<Esc>`) and just the keys themselves for other keys pressed. 

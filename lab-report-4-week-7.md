@@ -47,7 +47,8 @@
 - [x] Start already logged into a `ssh` session
 - [x] Make the edit for the task you chose in Vim, exit Vim and run `bash test.sh`
 - [x] Report how long it took you to make the edit in seconds in both styles, and any difficulties or details that came up in doing so. 
-      
+
+![Image](l4w7.jpg)
 
 ## Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
 > <span style="color:blue"> I would prefer to use the easier one, but in my case I choose neither. I currently don't want to even think about working on a program that I can run remotely. I used to want to work remotely, but now at this point, I don't have what it takes. It gives me stress and anxiety. At this point, I am about to quit.</span>

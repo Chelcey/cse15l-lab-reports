@@ -9,37 +9,11 @@
 - [x] Fork the given [Repository](https://github.com/ucsd-cse15l-f22/list-examples-grader)
 - [x] Given a list of repositories to test the grader
 
-## <span style="color:pink"> **Grading Script should include:**</span>
-- [ ] grade message (pass/fail, or maybe a proportion of tests passed - your choice) if the tests run.
-- [ ] useful feedback message (compile error, wrong file submitted, etc.)
-
-## <span style="color:pink"> **General Workflow for Script:**</span>
-- [ ] Clone the repository of the student submission to a well-known directory name 
-- [ ] Check student code has the correct file submitted. If they didn't, detect and give helpful feedback about it.
-      Useful tools here are `if` and `-e`/`-f`. You can use the `exit` command to quit a bash script early. 
-- [ ] Somehow get the student code and your test `.java` file into the same directory
-      Useful tools here are `cp` and maybe `mkdir`
-- [ ] Compile your tests and the student's code from the appropriate directory with appropriate classpath commands. 
-      If compilation fails, detect and give helpful feedback. 
-      Aside from `javac`, useful tools here are output redirection and error codes (`$?`) along with `if`. 
-      This might be the time to turn *off* `set -e`.
-- [ ] Run the tests again and report the grade based on JUnit output
-      Again output redirection and `grep` is useful
-      
-- [ ] Screenshots of what your grader does on each of the sample cases above
-      - [ ] list-methods-lab3
-      - [ ] list-methods-corrected
-      - [ ] list-methods-compile-error
-      - [ ] list-methods-signature
-      - [ ] list-methods-filename
-      - [ ] list-methods-nested
-      - [ ] list-examples-subtle
-
-- <span style="color:red"> *I am unable to do this portion at this point in my lifetime. Hopefully in my next life, I will be able to be a better coder. It is not that deep.* </span>
-
-
 # <span style="color:maroon"> **Part 1:Task List:**</span>
-- [ ] Pick one of the tasks from the week 6 lab that your group completed in Vim in the second set of tasks.
+
+- [x] Pick one of the tasks from the week 6 lab that your group completed in Vim in the second set of tasks.
+   ### <span style="color:blue">Changing the name of the `start` parameter and its uses to `bases`</span>
+      
 - [ ]  give the shortest sequence of vim commands (less than 30 total keys pressed)
        1. Write out the sequence of keys to press using code formatting (with backticks `). 
        2. Use `<>` to indicate special keys (`<Backspace>` or `<Enter>` or `<Esc>`) and just the keys themselves for          other keys pressed. 

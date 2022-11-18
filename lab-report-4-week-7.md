@@ -50,14 +50,16 @@
 
 ![Image](l4w7.jpg)
 
+## TIME
+| VISUAL STUDIO CODE | VIM |
+| ----------- | ----------- |
+| A long time (Several Days) | 1 hour |
+
 ## Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
-> <span style="color:blue"> I would prefer to use the easier one, but in my case I choose neither. I currently don't want to even think about working on a program that I can run remotely. I used to want to work remotely, but now at this point, I don't have what it takes. It gives me stress and anxiety. At this point, I am about to quit.</span>
+> <span style="color:blue"> Out of these two styles I would prefer using VIM if I had to work on a program that I was running remotely. The reason is that I felt like there was less steps to do in VIM, and I didn’t have to worry about if whether SSH will decide to prompt me for a password while logging in.</span>
 
 ## What about the project or task might factor into your decision one way or another (If nothing would affect your decision, say so and why!?) 
-> <span style="color:blue"> The projects or tasks that factored in my decision is realizing that I wasted my whole life doing something that I am not even great at, believing that I can do it. This is a major factor into my current decision of my view point.  </span>
-
-
-
+> <span style="color:blue"> After doing the project or task I felt like after trying out both styles, I just felt like the VIM style was less work. The only work was figuring out how to even start.</span>
 
 
 ### [Back to Contents:](https://chelcey.github.io/cse11-lab-reports/)****

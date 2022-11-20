@@ -35,22 +35,5 @@ code block
 
 > <span style="color:blue"> Pending...</span>
  
-> <span style="color:blue"> Pending...</span>
-> <span style="color:blue"> Pending...</span>
-> <span style="color:blue"> Pending...</span>
 
-## Why do we need to use Big O for?
-> <span style="color:blue"> used to classify algorithms according to run time or space requirements</span>
-
-## Why do we need to classify algorithms according to run time or space requirements?
-> <span style="color:blue"> Knowing how the algorithm works efficiently can add value to the way we do programming</span>
-> <span style="color:blue"> Can make the program behave in required optimal conditions</span>
-
-## What does optimal conditions means? 
-> <span style="color:blue"> best level or state that it could achieve</span>
-
-https://www.freecodecamp.org/news/all-you-need-to-know-about-big-o-notation-to-crack-your-next-coding-interview-9d575e7eec4/
-
-### [Back to Contents:](https://chelcey.github.io/cse11-self-study/)
-### [Back to Contents:](https://chelcey.github.io/cse15l-lab-reports/index.html)
 ### [Back to Contents:](https://chelcey.github.io/cse15l-lab-reports/)

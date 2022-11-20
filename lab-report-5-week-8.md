@@ -52,3 +52,5 @@ code block
 https://www.freecodecamp.org/news/all-you-need-to-know-about-big-o-notation-to-crack-your-next-coding-interview-9d575e7eec4/
 
 ### [Back to Contents:](https://chelcey.github.io/cse11-self-study/)
+### [Back to Contents:](https://chelcey.github.io/cse15l-lab-reports/index.html)
+### [Back to Contents:](https://chelcey.github.io/cse15l-lab-reports/)

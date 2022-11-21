@@ -1,5 +1,5 @@
 # <span style="color:purple"> **Lab Report 5 Week 8**</span>
-### <span style="color:pink"> Chelcey Do</span>
+### <span style="color:magenta"> Chelcey Do</span>
 
 
 ## Here is `grade.sh` in a code block

@@ -32,3 +32,4 @@
 | [Lab 3](lab-report-1-week-3.html) | Title | Description |
 | [Lab 4](https://chelcey.github.io/cse15l-lab-reports/lab-report-4-week-7) | VIM   | working off Week 6 Lab |
 | [Lab 5](https://chelcey.github.io/cse15l-lab-reports/lab-report-5-week-8) | Grading Script  | working off the Week 7 Lab |
+

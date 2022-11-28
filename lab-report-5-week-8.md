@@ -3,7 +3,7 @@
 
 
 ## Here is `grade.sh` in a code block
-> <span style="color:blue"> Details about the code block.</span>
+> <span style="color:blue"> I am still working on grade.sh. I am still figuring things out.</span>
 ```
 # Create your grading script here
 
@@ -71,15 +71,15 @@ fi
 
 ## Student Submission 1 
 ![Student Submission 1](ss1.jpg)
-> <span style="color:blue"> **Grade:** pending</span>
+> <span style="color:blue"> **Grade:** pending. Since I am still working on the grade.sh, I don't have a screenshot for this one yet.</span>
 
 ## Student Submission 2 
 ![Student Submission 2](ss2.jpg)
-> <span style="color:blue"> **Grade:** pending</span>
+> <span style="color:blue"> **Grade:** pending. Since I am still working on the grade.sh, I don't have a screenshot for this one yet.</span>
 
-## Student Submission 2 
+## Student Submission 3 
 ![Student Submission 3](ss3.jpg)
-> <span style="color:blue"> **Grade:** pending</span>
+> <span style="color:blue"> **Grade:** pending. Since I am still working on the grade.sh, I don't have a screenshot for this one yet.</span>
 
 ## Describing a trace of what your `grade.sh` 
 ### <span style="color:red"> Student Submission Pending</span>
@@ -94,7 +94,7 @@ fi
 
 - [ ] Indicate each line that *does not* run (maybe because it is an `if` branch that doesn't evaluate, or after an early exit)
 
-> <span style="color:blue"> Pending...</span>
+> <span style="color:blue"> Pending... I think the lines where I commented out 15-20 in the grade.sh. It won't run because its a comment, but also I decided to comment out my thought processes that I wasn't sure of.</span>
  
 
 ### [Back to Contents:](https://chelcey.github.io/cse15l-lab-reports/)
